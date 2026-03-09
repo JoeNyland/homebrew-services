@@ -1,5 +1,7 @@
 # Homebrew Services
 
+> This is a fork of Homebrew Services created at the point when support for macOS Big Sur (11) was removed, due to the change to using Ruby 3 for Homebrew.
+
 Manage background services using the daemon manager `launchctl` on macOS or `systemctl` on Linux.
 
 ## Requirements
